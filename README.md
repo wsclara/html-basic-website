@@ -8,9 +8,9 @@
      <body>
         <h1>Introdução ao HTML - Criação de uma página web</h1>
         <h2>História dos computadores</h2>
-        <p><b>1ª geração (1951-1959):</b> circuitos e válvulas eletrônicas de uso restrito, alto consumo de energia e dados inseridos por cartões perfurados. Exemplo: Eniac (Eletronic Numerical Integrator and Computer) e Univac</p>
+        <p><b>1ª geração (1951-1959):</b> circuitos e válvulas eletrônicas de uso restrito, alto consumo de energia e dados inseridos por cartões perfurados. Exemplo: Eniac (Eletronic Numerical Integrator and Computer) e Univac.</p>
         <p><b>2ª geração (1959-1965):</b> as válvulas maiores e mais lentas foram substituídas por transistores, porém, ainda com dimensões muito grandes, mas começando a se espalhar para uso comercial.</p>
-        <p><b>3ª geração (1965-1975):</b> os transistores foram substituídos por circuitos integrados que, por sua vez, apresentavam uma dimensão menor e maior capacidade de processamento. Teve início a criação de chips e a utilização de computadores pessoais</p>
+        <p><b>3ª geração (1965-1975):</b> os transistores foram substituídos por circuitos integrados que, por sua vez, apresentavam uma dimensão menor e maior capacidade de processamento. Teve início a criação de chips e a utilização de computadores pessoais.</p>
         <p><b>4ª geração (1975-atualidade):</b> os computadores foram diminuindo de tamanho, aumentando a velocidade e capacidade de processamentos de dados, incluindo microprocessadores com gastos de energia cada vez menores, havendo uma grande expansão dos computadores pessoais na década de 90.</p>
         <p><b>5ª geração:</b> representada por sistemas capazes de aprendizado autônomo e adaptação a novas situações sem a necessidade de intervenção humana. Exemplos: inteligência artificial, computação quântica e nanotecnologia.</p>
         <hr>
